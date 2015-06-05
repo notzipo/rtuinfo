@@ -34,7 +34,8 @@ var app = {
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         // app.receivedEvent('deviceready');
-        window.location = "http://not.zz.mu/index_droid.php";
+        // window.location = "http://not.zz.mu/index_droid.php";
+        window.location = "http://nott.eys.es/index_droid.php";
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
